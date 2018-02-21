@@ -1,5 +1,7 @@
 # PWA Splash Screens
 
+Repository to support Medium blog post at [https://medium.com/@applification/progressive-web-app-splash-screens-80340b45d210](https://medium.com/@applification/progressive-web-app-splash-screens-80340b45d210)
+
 ![PWA Splash Screens](pwa-splash-screens.png)
 
 ## Live Version
