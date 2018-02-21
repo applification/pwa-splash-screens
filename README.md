@@ -1,5 +1,7 @@
 # PWA Splash Screens
 
+![PWA Splash Screens](pwa-splash-screens.png)
+
 ## Live Version
 
 If you simply want to test out the splash screens, visit [https://pwa-splash.now.sh](https://pwa-splash.now.sh) and add the app to your home screen when prompted on Android or manualy 'Add to Home Screen' on iOS.
